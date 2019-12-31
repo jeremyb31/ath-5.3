@@ -99,6 +99,7 @@ static const struct ieee80211_regdomain ath_world_regdom_66_69 = {
 	.alpha2 =  "99",
 	.reg_rules = {
 		ATH9K_2GHZ_CH01_11,
+		ATH9K_2GHZ_CH12_13,
 		ATH9K_5GHZ_ALL,
 	}
 };
